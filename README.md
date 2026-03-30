@@ -90,12 +90,6 @@ evaluated the generated results from three aspects: fluency (γ), accuracy (δ),
 
 &nbsp;
 
-## Author
-
-#### Xin Jiang
-- Bachelor degree @South China Normal University
-- Bachelor degree @University of Aberdeen
-- linkedin.con/in/xin-jiang12 (LinkedIn)
 
 
 
